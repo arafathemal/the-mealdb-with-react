@@ -1,0 +1,14 @@
+.container-db {
+    background-color: rgb(55, 67, 78);
+    /* padding: 30px; */
+    height: 150px;
+}
+
+.container-db h1 {
+    color: rgb(233, 116, 141);
+
+}
+
+.container-db p {
+    color: white;
+}
